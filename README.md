@@ -10,8 +10,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-app-red?style=flat-square&logo=streamlit)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-<!-- Replace with your actual demo GIF -->
-![Demo](your-demo-gif-here.gif)
+
 
 </div>
 
