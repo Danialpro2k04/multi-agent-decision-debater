@@ -102,7 +102,7 @@ The Optimist, Devil's Advocate, and Risk Analyst run **in parallel** — simulta
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/multi-agent-decision-debater.git
+git clone https://github.com/Danialpro2k04/multi-agent-decision-debater.git
 cd multi-agent-decision-debater
 
 # 2. Create and activate a virtual environment
